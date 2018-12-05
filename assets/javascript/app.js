@@ -57,8 +57,8 @@ $(document).ready(function () {
             photo: "assets/images/moses.jpg",
         },
         {
-            question: "Michael Jordan wore three different numbers during his career, 23, 45 and _",
-            answers: ["33", "12", "99", "50"],
+            question: "Michael Jordan wore three different numbers during his career, 23, 45 and _ ?",
+            answers: ["#33", "#12", "#99", "#50"],
             correctAnswer: 1,
             photo: "assets/images/shrug.gif",
         }
