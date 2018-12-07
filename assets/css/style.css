@@ -1,7 +1,7 @@
 
 body {
-    /* background-color: rgb(33, 127, 199); */
-    background-image: url("assets/images/msg.jpg");
+    background-color: rgb(33, 127, 199);
+    /* background: url("../images/msg.jpg"); */
 }
 
 h1 {
@@ -16,9 +16,9 @@ h1 {
     text-align: center;
 }
 #start {
-    position: relative;
+    /* position: relative; */
     display: inline-block;
-    margin: 200px;
+    margin-top: 92px;
 }
 
 #question {

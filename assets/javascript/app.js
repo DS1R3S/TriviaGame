@@ -9,7 +9,7 @@ $(document).ready(function () {
 
         },
         {
-            question: "Which player holds the record for most career points scored?",
+            question: "Who holds the record for most career points scored?",
             answers: ["Kobe Bryant", "Kareem Abdul Jabbar", "Shaq", "Michael Jordan",],
             correctAnswer: 1,
             photo: "assets/images/kareemThumbs.gif",
@@ -21,7 +21,7 @@ $(document).ready(function () {
             photo: "assets/images/lebronFace.gif",
         },
         {
-            question: "What player score the most points in a single game?",
+            question: "Who scored the most points in a single game?",
             answers: ["Kobe Bryant", "Devin Booker", "Wilt Chamberlain", "Larry Bird"],
             correctAnswer: 2,
             photo: "assets/images/wilt100.jpg",
@@ -33,25 +33,25 @@ $(document).ready(function () {
             photo: "assets/images/Bill.jpeg",
         },
         {
-            question: "Which team has the best record in a single season?",
+            question: "What team has the best record in a single season?",
             answers: ["Chicago Bulls", "New York Knicks", "L.A. Lakers", "Golden State Warriors"],
             correctAnswer: 3,
             photo: "assets/images/kyrie.gif",
         },
         {
-            question: "Which player has the highest career 3pt field goal percentage?",
+            question: "Who has the highest career 3pt field goal percentage?",
             answers: ["Steph Curry", "Klay Thompson", "Steve Kerr", "Ray Allen"],
             correctAnswer: 2,
             photo: "assets/images/kerr.gif",
         },
         {
-            question: "Which team drafted Kobe Bryant?",
+            question: "What team drafted Kobe Bryant?",
             answers: ["L.A. Lakers", "L.A. Clippers", "Charlotte Hornets", "Boston Celtics"],
             correctAnswer: 2,
             photo: "assets/images/kobe.gif",
         },
         {
-            question: "Which player started the trend of going directly from high school to the pro's?",
+            question: "Who started the trend of going directly from high school to the pro's?",
             answers: ["Kobe Bryant", "Lebron James", "Moses Malone", "Hakeem Olajuwon"],
             correctAnswer: 2,
             photo: "assets/images/moses.jpg",
